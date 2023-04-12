@@ -1,0 +1,5 @@
+matplotlib --> pour traiter et afficher le dandogram
+pandas --> analyse des data et machine learning et taches
+numpy --> pour les opperation methematic 
+jupyter lab --> interface pour developemen et environement
+pour les traitement des donne et du code ! 
